@@ -2,16 +2,16 @@
   "title": "Motivation Plans",
   "description": "",
   "tags": [],
-  "activeEditor": "style",
+  "activeEditor": "markup",
   "markup": {
     "language": "html",
-    "content": "<div>\r\n  <table border=\"1\">\r\n    <thead>\r\n      <tr>\r\n        <th colspan=\"2\">Motivations</th>\r\n      </tr>\r\n      <tr>\r\n        <th>Item</th>\r\n        <th>Price</th>\r\n      </tr>\r\n    </thead>\r\n    <tbody>\r\n      <tr>\r\n        <td>Mickey book</td>\r\n        <td>10 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>Arabic Book</td>\r\n        <td>20 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>Arabic Audiobook</td>\r\n        <td>10 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>English Book</td>\r\n        <td>30 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>English audiobook</td>\r\n        <td>15 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>French book</td>\r\n        <td>40 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>French audiobook</td>\r\n        <td>20 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>Religous book</td>\r\n        <td>50 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>Religous audiobook</td>\r\n        <td>25 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>Courses</td>\r\n        <td>100 LE</td>\r\n      </tr>\r\n    </tbody>\r\n  </table>\r\n</div>\r\n",
+    "content": "<h1>Motivation Plans</h1>\r\n\r\n<div>\r\n  <table border=\"1\">\r\n    <thead>\r\n      <tr>\r\n        <th colspan=\"2\">Motivations</th>\r\n      </tr>\r\n      <tr>\r\n        <th>Item</th>\r\n        <th>Price</th>\r\n      </tr>\r\n    </thead>\r\n    <tbody>\r\n      <tr>\r\n        <td>Mickey book</td>\r\n        <td>10 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>Arabic Book</td>\r\n        <td>20 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>Arabic Audiobook</td>\r\n        <td>10 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>English Book</td>\r\n        <td>30 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>English audiobook</td>\r\n        <td>15 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>French book</td>\r\n        <td>40 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>French audiobook</td>\r\n        <td>20 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>Religous book</td>\r\n        <td>50 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>Religous audiobook</td>\r\n        <td>25 LE</td>\r\n      </tr>\r\n      <tr>\r\n        <td>Courses</td>\r\n        <td>100 LE</td>\r\n      </tr>\r\n    </tbody>\r\n  </table>\r\n</div>\r\n",
     "contentUrl": "",
     "selector": ""
   },
   "style": {
     "language": "css",
-    "content": "body {\r\n  font-family: Arial, Helvetica, sans-serif;\r\n  background-color: white;\r\n}\r\ntable {\r\n  border-collapse: collapse;\r\n  margin: auto;\r\n  padding: 5px;\r\n  width: 70%;\r\n  border: 2px solid black;\r\n}\r\ntr:nth-child(even) {\r\n  background-color: #f2f2f2;\r\n}\r\ntr:nth-child(odd) {\r\n  background-color: rgb(119, 119, 119);\r\n}\r\nth,\r\ntd {\r\n  padding: 10px;\r\n}\r\ntd:nth-child(even) {\r\n  text-align: center;\r\n}\r\n",
+    "content": "body {\r\n  font-family: Arial, Helvetica, sans-serif;\r\n  background-color: white;\r\n}\r\nh1 {\r\n  text-align: center;\r\n}\r\ntable {\r\n  border-collapse: collapse;\r\n  margin: auto;\r\n  padding: 5px;\r\n  width: 70%;\r\n  border: 2px solid black;\r\n}\r\ntr:nth-child(even) {\r\n  background-color: #f2f2f2;\r\n}\r\ntr:nth-child(odd) {\r\n  background-color: rgb(119, 119, 119);\r\n}\r\nth,\r\ntd {\r\n  padding: 10px;\r\n}\r\ntd:nth-child(even) {\r\n  text-align: center;\r\n}\r\n",
     "contentUrl": "",
     "selector": ""
   },
